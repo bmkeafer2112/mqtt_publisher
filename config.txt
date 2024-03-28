@@ -1,0 +1,9 @@
+[config]
+device_list = C:\Users\bmkea\Documents\Denso_Test_cell\Python Scripts\MQTT\device list.xml
+port = 1883
+broker = 192.168.190.52
+agg_interval = 1
+db_address = Localhost
+db_username = postgres
+db_password = admin
+db_name = postgres
